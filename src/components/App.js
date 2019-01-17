@@ -11,7 +11,7 @@ class App extends React.Component {
 
     render() {
         return (
-            <div>Helloworld!</div>
+            <div className="container">Helloworld!</div>
         );
     }
 }
